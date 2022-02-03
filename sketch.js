@@ -25,7 +25,7 @@ function preload() {
   restartImg = loadImage("images/restart.png")
   punchSound = loadSound("sounds/punch.mp3")
   loseSound = loadSound("sounds/lose.mp3")
-  bulletFiredSound = loadSound("sounds/gunfired.mp3")
+  bulletFiredSound = loadSound("sounds/gunFired.mp3")
 
 
 
